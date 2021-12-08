@@ -9,11 +9,11 @@
 
 <div align="center" align-items="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaemmert&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://cdn.discordapp.com/attachments/904892540409503866/917888293746651166/picasion.com_ab015482c0560644ae0999d535f029b9.gif" width="164">  
+  <img src="https://cdn.discordapp.com/attachments/904892540409503866/917945280987553792/gif_mi.gif" alt="gif_mi" width="164">  
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/milenaemmert" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       target="_blank"></a>
+    <a href="https://www.linkedin.com/in/milenaemmert" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
     <a href="https://linktr.ee/mi_emmert" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
  </div>
