@@ -9,7 +9,7 @@
 
 <div align="center" align-items="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaemmert&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://cdn.discordapp.com/attachments/904892540409503866/917945280987553792/gif_mi.gif" alt="gif_mi" width="164">  
+  <img src="https://cdn.discordapp.com/attachments/904892540409503866/917945280987553792/gif_mi.gif" alt="gif_mi" width="204">  
 </div>
 
 <div align="center">
