@@ -1,7 +1,7 @@
 <h3 align="center">Hey guys! My name is Milena but you can call me Mi! ☺ </h3>
 
 <p align="center">
-  <em>I am passionate about the idea of helping people to solve their problems with technology!<br>
+  <em>I am passionate about the idea of helping people to solve their problems and have fun with technology!<br>
   Also I define myself as a good teacher, so if I can help you with anything, please feel free to contact me!</em><br>
   &hearts;&hearts;&hearts;<br>
   I'm studying <strong>front-end</strong> technologies and hope to become a professional developer soon!
