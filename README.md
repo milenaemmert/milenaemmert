@@ -6,7 +6,7 @@
 ✨ I am passionate about the idea of helping people to solve their problems and have fun with technology!</em><br>
 💙 I work as front-end developer intern at <a href="https://github.com/alura-cursos">Alura</a> and I'm always learning and sharing my skills!
 
-💻 [Alura](https://www.alura.com.br/formacoes) - [Casa do Código](https://www.casadocodigo.com.br/products/livro-git-github?_pos=1&_sid=25b0a52bb&_ss=r) - [7 days of code](https://7daysofcode.io/) - [Como aprender programação](https://dev.to/milenaemmert/como-estudar-e-aprender-programacao-de-forma-mais-eficaz-4p6b) - [Playlist para codar bugs](https://open.spotify.com/playlist/3zHDSLqtkQRTswoHEHOnyE?si=ecf9dcce3f3246d8)
+💻 [Alura](https://www.alura.com.br/formacoes) - [Casa do Código](https://www.casadocodigo.com.br/products/livro-git-github?_pos=1&_sid=25b0a52bb&_ss=r) - [7 days of code](https://7daysofcode.io/) - [Como aprender programação](https://dev.to/milenaemmert/como-estudar-e-aprender-programacao-de-forma-mais-eficaz-4p6b) - [Playlist que gosto para codar bugs](https://open.spotify.com/playlist/3zHDSLqtkQRTswoHEHOnyE?si=ecf9dcce3f3246d8)
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/904892540409503866/1002092714910814298/board.png" alt="Board with technologies and tools." align="center">
