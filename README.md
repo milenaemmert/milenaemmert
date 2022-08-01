@@ -17,7 +17,7 @@
 <img src="https://cdn.discordapp.com/attachments/904892540409503866/1003706832310763630/personality.gif" alt="My personality"> 
 <img src="https://cdn.discordapp.com/attachments/904892540409503866/1003706831937482753/series.gif" alt="My fav series"> 
 <img src="https://cdn.discordapp.com/attachments/904892540409503866/1003707580809498685/music.gif" alt="My fav kind of music"> 
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1003706832621146132/games.gif" alt="My fav games">
+<img src="https://cdn.discordapp.com/attachments/904892540409503866/1003708693394772018/gamess.gif" alt="My fav games">
 </div>
 
 </div>
