@@ -8,16 +8,16 @@
 
 💻 [Alura](https://www.alura.com.br/formacoes) - [Casa do Código](https://www.casadocodigo.com.br/products/livro-git-github?_pos=1&_sid=25b0a52bb&_ss=r) - [7 days of code](https://7daysofcode.io/) - [Como aprender programação](https://dev.to/milenaemmert/como-estudar-e-aprender-programacao-de-forma-mais-eficaz-4p6b) - [Playlist que gosto para codar bugs](https://open.spotify.com/playlist/3zHDSLqtkQRTswoHEHOnyE?si=ecf9dcce3f3246d8)
 
-<div align="center">
+<div>
 <img src="https://cdn.discordapp.com/attachments/904892540409503866/1002436966106796113/board.png" alt="Board with technologies and tools." align="center">
 
 <hr>
 
 <h4>A little bit about myself</h4>
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1001951284649271296/personality_.gif" alt="My personality"> 
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1001951589566775417/series__.gif" alt="My fav series"> 
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1001950885133418557/music__.gif" alt="My fav kind of music"> 
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1001950736336289842/games__.gif" alt="My fav games">
+<img src="https://cdn.discordapp.com/attachments/904892540409503866/1003706832310763630/personality.gif" alt="My personality"> 
+<img src="https://cdn.discordapp.com/attachments/904892540409503866/1003706831937482753/series.gif" alt="My fav series"> 
+<img src="https://cdn.discordapp.com/attachments/904892540409503866/1003707580809498685/music.gif" alt="My fav kind of music"> 
+<img src="https://cdn.discordapp.com/attachments/904892540409503866/1003706832621146132/games.gif" alt="My fav games">
 </div>
 
 </div>
