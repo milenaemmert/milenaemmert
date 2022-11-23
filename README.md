@@ -1,20 +1,36 @@
 <div>
-<a href="https://dev.to/milenaemmert"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1002080174176731227/dev.png" align="right"></a>
-<a href="https://www.linkedin.com/in/milenaemmert/" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1002080174478737478/in.png" align="right"></a>
-<h4>My name is Milena but you can call me Mi 🤗</h4>
+<a href="https://dev.to/milenaemmert"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010947992989806/dev.png" align="right"></a>
+<a href="https://www.linkedin.com/in/milenaemmert/" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010939193344050/in.png" align="right"></a>
+  <a href="https://www.youtube.com/channel/UCq-I0msCuzWZm5ymyfRvs8Q" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010929059901480/yt.png" align="right"></a>
+  <a href="https://cutt.ly/revisao-js-html-css" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010952858382376/notion.png" align="right"></a>
+  
+## Muito prazer, sou a Mila!
+<h4 align="middle"> $Entre$ $dinossauros$ $e$ $luzes$ $de$ $neon$ ✨</h4>
 </div>
-✨ <em>Passionate about helping people to solve their problems and have fun with technology</em><br>
-💙 Front-end developer intern at <a href="https://www.alura.com.br/">Alura</a>
+<br>
+<p align="right"></p>
+<img src="https://cdn.discordapp.com/attachments/904892540409503866/1045004354614218802/banner.png" align="right" alt="Board with technologies and tools." width="391">
 
-💻 [Como aprender programação](https://dev.to/milenaemmert/como-estudar-e-aprender-programacao-de-forma-mais-eficaz-4p6b) - [Playlist](https://open.spotify.com/playlist/3zHDSLqtkQRTswoHEHOnyE?si=ecf9dcce3f3246d8)
+<div align="left">
+:computer: Sou dev front-end<br>
+:blue_heart: Trabalho na <a href="https://www.alura.com.br/">Alura</a><br>
+:bar_chart: Meu vício em Notion me levou a estudar Data Science<br>
+:globe_with_meridians: Falo Inglês, estou aprendendo francês e gostaria um dia de aprender capivarês<br>
+</div>
+  
 
 
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1019619861447573524/Group_186.png" alt="Board with technologies and tools." align="center">
+
 
 <hr>
+<img src="https://user-images.githubusercontent.com/87506547/203601477-4fb62f1c-4d78-4c93-a1af-b70dd470a05d.png" align="right" alt="Bunny." width="160">
+<div align="left">
+<br><br>
+:guitar: Tenho uma harmônica (e durante muito tempo isso era tudo o que eu queria ter)<br>
+:coffee: Café tem gosto de solidão<br>
+:pencil2: Gosto de escrever, mas acho que palavras não valem nada<br>
+:monkey: Sou apaixonada por coelhinhos, macaquinhos e capivarinhas
+</br>
 
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1019625126775488622/GifMi.gif" alt="Gif Mi"> 
-
-</div>
 
 
