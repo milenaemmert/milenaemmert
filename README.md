@@ -1,7 +1,7 @@
 <div>
 <a href="https://dev.to/milenaemmert"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010947992989806/dev.png" align="right"></a>
 <a href="https://www.linkedin.com/in/milenaemmert/" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010939193344050/in.png" align="right"></a>
-  <a href="https://www.youtube.com/channel/UCq-I0msCuzWZm5ymyfRvs8Q" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010929059901480/yt.png" align="right"></a>
+  <a href="https://www.youtube.com/@milenaemmert" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010929059901480/yt.png" align="right"></a>
   <a href="https://cutt.ly/revisao-js-html-css" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010952858382376/notion.png" align="right"></a>
   
 ## Muito prazer, sou a Mila!
