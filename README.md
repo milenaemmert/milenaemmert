@@ -17,14 +17,10 @@
 :bar_chart: Meu vício em Notion me levou a estudar Data Science<br>
 :globe_with_meridians: Falo Inglês, estou aprendendo francês e gostaria um dia de aprender capivarês<br>
 </div>
-  
-
-
-
-
+<br>
 <hr>
-<img src="https://user-images.githubusercontent.com/87506547/203601477-4fb62f1c-4d78-4c93-a1af-b70dd470a05d.png" align="right" alt="Bunny." width="160">
-<div align="left">
+<img src="https://user-images.githubusercontent.com/87506547/203601477-4fb62f1c-4d78-4c93-a1af-b70dd470a05d.png" align="left" alt="Bunny." width="132">
+<div align="right">
 <br><br>
 :guitar: Tenho uma harmônica (e durante muito tempo isso era tudo o que eu queria ter)<br>
 :coffee: Café tem gosto de solidão<br>
