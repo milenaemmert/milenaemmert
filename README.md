@@ -1,8 +1,8 @@
 <div>
-<a href="https://dev.to/milenaemmert"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010947992989806/dev.png" align="right"></a>
-<a href="https://www.linkedin.com/in/milenaemmert/" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010939193344050/in.png" align="right"></a>
-  <a href="https://www.youtube.com/@milenaemmert" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010929059901480/yt.png" align="right"></a>
-  <a href="https://cutt.ly/revisao-js-html-css" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010952858382376/notion.png" align="right"></a>
+<a href="https://dev.to/milenaemmert"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010947992989806/dev.png" align="right" width='24'></a>
+<a href="https://www.linkedin.com/in/milenaemmert/" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010939193344050/in.png" align="right" width='24'></a>
+  <a href="https://www.youtube.com/@milenaemmert" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010929059901480/yt.png" align="right" width='24'></a>
+  <a href="https://cutt.ly/revisao-js-html-css" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010952858382376/notion.png" align="right" width='24'></a>
   
 ## Muito prazer, sou a Mila!
 <h4 align="middle"> $Entre$ $dinossauros$ $e$ $luzes$ $de$ $neon$ ✨</h4>
