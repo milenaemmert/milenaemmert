@@ -9,24 +9,21 @@
 </div>
 <br>
 <p align="right"></p>
-<img src="https://cdn.discordapp.com/attachments/904892540409503866/1045004354614218802/banner.png" align="right" alt="Board with technologies and tools." width="391">
+<!--src="https://cdn.discordapp.com/attachments/904892540409503866/1045004354614218802/banner.png" align="right" alt="Board with technologies and tools." width="391">-->
 
+<img src="https://user-images.githubusercontent.com/87506547/203601477-4fb62f1c-4d78-4c93-a1af-b70dd470a05d.png" align="right" alt="Bunny." width="124">
 <div align="left">
-:computer: Sou dev front-end<br>
+:computer: Sou do time front-end<br>
 :blue_heart: Trabalho na <a href="https://www.alura.com.br/">Alura</a><br>
 :bar_chart: Meu vício em Notion me levou a estudar Data Science<br>
-:globe_with_meridians: Falo Inglês, estou aprendendo francês e gostaria um dia de aprender capivarês<br>
-</div>
-<br>
-<hr>
-<img src="https://user-images.githubusercontent.com/87506547/203601477-4fb62f1c-4d78-4c93-a1af-b70dd470a05d.png" align="left" alt="Bunny." width="132">
-<div align="right">
-<br><br>
+:globe_with_meridians: Falo Inglês, estou aprendendo francês e um dia gostaria de aprender capivarês<br>
 :guitar: Tenho uma harmônica (e durante muito tempo isso era tudo o que eu queria ter)<br>
-:coffee: Café tem gosto de solidão<br>
-:pencil2: Gosto de escrever, mas acho que palavras não valem nada<br>
 :monkey: Sou apaixonada por coelhinhos, macaquinhos e capivarinhas
-</br>
+</div>
+
+
+
+
 
 
 
