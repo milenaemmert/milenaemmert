@@ -5,7 +5,7 @@
   <a href="https://cutt.ly/revisao-js-html-css" align="right"><img src="https://cdn.discordapp.com/attachments/904892540409503866/1045010952858382376/notion.png" align="right" width='24'></a>
   
 ## Muito prazer, sou a Mila!
-<img src="https://user-images.githubusercontent.com/87506547/203601477-4fb62f1c-4d78-4c93-a1af-b70dd470a05d.png" align="right" alt="Bunny." width="94">
+<img src="https://user-images.githubusercontent.com/87506547/203601477-4fb62f1c-4d78-4c93-a1af-b70dd470a05d.png" align="right" alt="Bunny." width="115">
 <div align="left">
 <h4> $Entre$ $dinossauros$ $e$ $luzes$ $de$ $neon$ ✨</h4>
 </div>
