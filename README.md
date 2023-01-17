@@ -14,7 +14,7 @@
 
 :computer: Dev front-end na Alura<br>
 :chocolate_bar: Café é coisa de adulto, aceito um chocolate quente<br>
-:globe_with_meridians: Falo Inglês, estou aprendendo francês, mas eu queria mesmo era falar capivarês<br>
+:globe_with_meridians: Falo Inglês, mas o que eu queria mesmo era falar o tal do capivarês<br>
 :guitar: Tenho uma harmônica (e durante muito tempo isso era tudo o que eu queria ter)<br>
 </div>
 
