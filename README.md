@@ -10,7 +10,7 @@
 <div align="left">
   <i>Desenvolvedora front-end</i><br><br>
   
- `react` `typescript` `css <3` `figma` `senior em .md`
+ `react` `typescript` `css` `figma` `react native`
 </div>
 </div>
 
